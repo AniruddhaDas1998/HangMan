@@ -1,6 +1,10 @@
 TO COMPILE
+navigate to src folder
 javac HangMan.java
+or 
+from root directory: java src/HangMan.java
 
 TO RUN
+navigate to src folder
 java HangMan
 

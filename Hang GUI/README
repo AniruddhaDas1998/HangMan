@@ -1,0 +1,9 @@
+TO COMPILE
+Navigate to src directory
+javac *.java
+or
+from root directory: javac src/*.java
+
+TO RUN
+Navigate to src directory
+java Main
