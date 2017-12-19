@@ -1,0 +1,6 @@
+TO COMPILE
+javac HangMan.java
+
+TO RUN
+java HangMan
+
