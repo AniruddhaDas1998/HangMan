@@ -4,6 +4,8 @@ javac *.java
 or
 from root directory: javac src/*.java
 
+Must have javafx installed
+
 TO RUN
 Navigate to src directory
 java Main
